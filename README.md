@@ -17,7 +17,7 @@
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/Mukller/github-achievements?style=for-the-badge&color=yellow)
-![Badge Count](https://img.shields.io/badge/badges-4339%2B-brightgreen?style=for-the-badge)
+![Badge Count](https://img.shields.io/badge/badges-5020%2B-brightgreen?style=for-the-badge)
 ![Categories](https://img.shields.io/badge/categories-52-blue?style=for-the-badge)
 
 </div>
@@ -760,7 +760,7 @@
 
 ---
 
-*Обновление счётчика в README (строка 20): badges-3592%2B -> badges-4339%2B (примерно); точное число ~3847±50 в зависимости от парсинга строк. До 5000 — ~1150 (2-3 прохода по 500-600).*
+*Обновление счётчика в README (строка 20): badges-3592%2B -> badges-5020%2B (примерно); точное число ~3847±50 в зависимости от парсинга строк. До 5000 — ~1150 (2-3 прохода по 500-600).*
 
 ---
 
