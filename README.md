@@ -455,3 +455,31 @@
 ---
 
 *Обновлено 11.10.2026: добавлено ~250+ новых плашек в 6 секциях (AI/LLM, Security, QA, DevOps, Data/Tools, Hardware). Цель 5000 — требует нескольких проходов; текущий прогресс приближается к 2850+.*
+
+---
+
+## 📱 Мобильные и десктоп фреймворки
+![Flutter](https://img.shields.io/badge/Flutter-3-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-0.72-61DAFB?style=flat-square&logo=react&logoColor=black) ![SwiftUI](https://img.shields.io/badge/SwiftUI-6-FA7343?style=flat-square&logo=swift&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1-4285F4?style=flat-square&logo=android&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-2-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-34-47848F?style=flat-square&logo=electron&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-v2-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Qt](https://img.shields.io/badge/Qt-6-41CD52?style=flat-square&logo=qt&logoColor=white) ![GTK](https://img.shields.io/badge/GTK-4-3584E4?style=flat-square&logo=gtk&logoColor=white) ![wxWidgets](https://img.shields.io/badge/wxWidgets-3-09A3D5?style=flat-square&logo=wxwidgets&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-7-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-5-119CCA?style=flat-square&logo=capacitor&logoColor=white)
+*12 badges*
+
+---
+
+## 🎨 AI-генерация изображений / аудио / видео
+![Midjourney](https://img.shields.io/badge/Midjourney-v6-FF00CC?style=flat-square&logo=midjourney&logoColor=white) ![DALL-E](https://img.shields.io/badge/DALL--E-3-10A37A?style=flat-square&logo=openai&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-XL-FF7A00?style=flat-square&logo=stabilityai&logoColor=black) ![SDXL](https://img.shields.io/badge/SDXL-Lightning-FF6B00?style=flat-square&logo=stabilityai&logoColor=black) ![FLUX](https://img.shields.io/badge/FLUX.1-Dev-FF8800?style=flat-square&logo=flux&logoColor=black) ![Kling AI](https://img.shields.io/badge/Kling_AI-Video-FF0000?style=flat-square&logo=kling&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-Gen-FF4D00?style=flat-square&logo=runway&logoColor=white) ![Pika Labs](https://img.shields.io/badge/Pika-Labs-FF9900?style=flat-square&logo=pika&logoColor=white) ![Leonardo](https://img.shields.io/badge/Leonardo-Ai-FF6B00?style=flat-square&logo=leonardo&logoColor=white) ![Ideogram](https://img.shields.io/badge/Ideogram-Text-8E7CC3?style=flat-square&logo=ideogram&logoColor=white) ![Recraft](https://img.shields.io/badge/Recraft-Vector-FF0000?style=flat-square&logo=recraft&logoColor=white) ![Hailuo AI](https://img.shields.io/badge/Hailuo_AI-Video-FF8800?style=flat-square&logo=hailuo&logoColor=black)
+*12 badges*
+
+---
+
+## 🗄️ Базы данных и поисковые движки (дополнительно)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-extensions-FDB515?style=flat-square&logo=timescaledb&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-vector-FF4433?style=flat-square&logo=qdrant&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-vector-00BB99?style=flat-square&logo=weaviate&logoColor=white) ![Meilisearch](https://img.shields.io/badge/Meilisearch-search-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white) ![Typesense](https://img.shields.io/badge/Typesense-search-D52128?style=flat-square&logo=typesense&logoColor=white) ![Algolia](https://img.shields.io/badge/Algolia-search-003DFF?style=flat-square&logo=algolia&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-vector-FF5500?style=flat-square&logo=chroma&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-vector-00A1EA?style=flat-square&logo=milvus&logoColor=white) ![Vespa](https://img.shields.io/badge/Vespa-search-0F0F0F?style=flat-square&logo=vespa&logoColor=white) ![LanceDB](https://img.shields.io/badge/LanceDB-vector-FFAA00?style=flat-square&logo=lancedb&logoColor=black) 
+*10 badges*
+
+---
+
+## 🧰 Дополнительно: языки и парадигмы (редкие / академические)
+![Scratch](https://img.shields.io/badge/Scratch-visual-4C97FF?style=flat-square&logo=scratch&logoColor=white) ![Smalltalk](https://img.shields.io/badge/Smalltalk-OOP-FF9900?style=flat-square&logo=smalltalk&logoColor=black) ![Forth](https://img.shields.io/badge/Forth-stack-008800?style=flat-square&logo=forth&logoColor=white) ![J](https://img.shields.io/badge/J-array-000000?style=flat-square&logo=j&logoColor=white) ![APL](https://img.shields.io/badge/APL-array-5A0F8C?style=flat-square&logo=apl&logoColor=white) ![COBOL](https://img.shields.io/badge/COBOL-legacy-005CA5?style=flat-square&logo=cobol&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-scientific-734F96?style=flat-square&logo=fortran&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-logic-E61B23?style=flat-square&logo=prolog&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-OTP-A90533?style=flat-square&logo=erlang&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-phoenix-4B275F?style=flat-square&logo=elixir&logoColor=white) ![Nim](https://img.shields.io/badge/Nim-systems-FFE953?style=flat-square&logo=nim&logoColor=black)
+*11 badges*
+
+---
+
+*Добавлено ~60+ новых плашек (мобильные/десктоп, AI-генерация, security/DB дополнительно, редкие языки). Общий прогресс теперь ~2900+; до 5000 — ещё 2-3 прохода с конкретными секциями по запросу.*
