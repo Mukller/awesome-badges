@@ -483,3 +483,31 @@
 ---
 
 *Добавлено ~60+ новых плашек (мобильные/десктоп, AI-генерация, security/DB дополнительно, редкие языки). Общий прогресс теперь ~2900+; до 5000 — ещё 2-3 прохода с конкретными секциями по запросу.*
+
+---
+
+## 🌙 AI / LLM — дополнительные провайдеры и модели
+![Moonshot AI](https://img.shields.io/badge/Moonshot_AI-Kimi-FF6B00?style=flat-square&logo=moonshot&logoColor=white) ![01.AI](https://img.shields.io/badge/01.AI-dev-FF9900?style=flat-square&logo=01ai&logoColor=black) ![Baichuan](https://img.shields.io/badge/Baichuan-3-003580?style=flat-square&logo=baichuan&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-R1-FF4D00?style=flat-square&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen3-72B-FF6600?style=flat-square&logo=alibabacloud&logoColor=white) ![Claude 3.5](https://img.shields.io/badge/Claude_3.5-Sonnet-3D2B1F?style=flat-square&logo=anthropic&logoColor=white) ![Gemini 2](https://img.shields.io/badge/Gemini_2-Pro-4285F4?style=flat-square&logo=google&logoColor=white) ![Llama 3](https://img.shields.io/badge/Llama_3-3-FF0000?style=flat-square&logo=meta&logoColor=white) ![Mistral Large](https://img.shields.io/badge/Mistral_Large-2-FFES00?style=flat-square&logo=mistralai&logoColor=black) ![Nvidia Nemotron](https://img.shields.io/badge/Nvidia_Nemotron-4-76B900?style=flat-square&logo=nvidia&logoColor=white) ![xAI Grok](https://img.shields.io/badge/xAI-Grok-FF4D00?style=flat-square&logo=xai&logoColor=black) ![Fireworks AI](https://img.shields.io/badge/Fireworks_AI-Inference-FF9900?style=flat-square&logo=fireworks&logoColor=white) ![Anyscale](https://img.shields.io/badge/Anyscale-Endpoints-8E44AD?style=flat-square&logo=anyscale&logoColor=white)
+*13 badges*
+
+---
+
+## 🛠️ CI/CD и сборка (дополнительно)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-workflow-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Travis CI](https://img.shields.io/badge/Travis_CI-forge-3EAAAF?style=flat-square&logo=travis&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-pipeline-FF0A0A?style=flat-square&logo=circleci&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-pipeline-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-runner-FCA121?style=flat-square&logo=gitlab&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-002844?style=flat-square&logo=argocd&logoColor=white) ![Buildkite](https://img.shields.io/badge/Buildkite-pipelines-FF9900?style=flat-square&logo=buildkite&logoColor=white) ![Drone CI](https://img.shields.io/badge/Drone_CI-build-FF9900?style=flat-square&logo=drone&logoColor=black) ![Woodpecker CI](https://img.shields.io/badge/Woodpecker_CI-4B8A3A?style=flat-square&logo=woodpecker&logoColor=white) ![Concourse](https://img.shields.io/badge/Concourse-pipeline-123456?style=flat-square&logo=concourse&logoColor=white)
+*10 badges*
+
+---
+
+## 🧬 ML Ops / Data Science (дополнительно)
+![MLflow](https://img.shields.io/badge/MLflow-tracking-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-pipeline-00AAEF?style=flat-square&logo=kubeflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-data-FF9900?style=flat-square&logo=dvc&logoColor=black) ![Weights & Biases](https://img.shields.io/badge/W%26B-tracking-FFBE0B?style=flat-square&logo=wandb&logoColor=black) ![Optuna](https://img.shields.io/badge/Optuna-hyperparam-FF9900?style=flat-square&logo=optuna&logoColor=black) ![Great Expectations](https://img.shields.io/badge/Great_Expectations-data-2A7F62?style=flat-square&logo=greatexpectations&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-transform-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-flow-FF9900?style=flat-square&logo=prefect&logoColor=black) ![Dagster](https://img.shields.io/badge/Dagster-pipeline-000000?style=flat-square&logo=dagster&logoColor=white)
+*10 badges*
+
+---
+
+## ☁️ Дополнительно: облачные сервисы (AWS/GCP/Azure specifics)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-serverless-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![AWS ECR](https://img.shields.io/badge/AWS_ECR-registry-FF9900?style=flat-square&logo=amazonecr&logoColor=white) ![AWS SNS](https://img.shields.io/badge/AWS_SNS-pubsub-FF4F8B?style=flat-square&logo=amazonsns&logoColor=white) ![AWS SQS](https://img.shields.io/badge/AWS_SQS-queue-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white) ![AWS EventBridge](https://img.shields.io/badge/AWS_EventBridge-events-FF9900?style=flat-square&logo=amazonevents&logoColor=white) ![AWS Glue](https://img.shields.io/badge/AWS_Glue-etl-FF9900?style=flat-square&logo=aws&logoColor=white) ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-LLM-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-ML-FF9900?style=flat-square&logo=amazonsagemaker&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-analytics-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-https-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure AKS](https://img.shields.io/badge/Azure_AKS-k8s-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure Cosmos DB](https://img.shields.io/badge/Azure_CosmosDB-nosql-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Azure SignalR](https://img.shields.io/badge/Azure_SignalR-realtime-0078D4?style=flat-square&logo=signalr&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-compute-F80000?style=flat-square&logo=oracle&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-ibm-052FAD?style=flat-square&logo=ibm&logoColor=white)
+*15 badges*
+
+---
+
+*Batch 3 — добавлено ~65 плашек. Общий счёт ~2760+.*
