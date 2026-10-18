@@ -12,13 +12,13 @@
   </a>
 </p>
 
-> Самый насыщенный бейджами README на GitHub. **5020+ шилдов** в 52 категориях, покрывающих весь технологический ландшафт.
+> Самый насыщенный бейджами README на GitHub. **5020+ шилдов** в 120 категориях, покрывающих весь технологический ландшафт.
 
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/Mukller/github-achievements?style=for-the-badge&color=yellow)
 ![Badge Count](https://img.shields.io/badge/badges-5020%2B-brightgreen?style=for-the-badge)
-![Categories](https://img.shields.io/badge/categories-52-blue?style=for-the-badge)
+![Categories](https://img.shields.io/badge/categories-120-blue?style=for-the-badge)
 
 </div>
 
